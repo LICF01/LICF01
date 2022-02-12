@@ -1,6 +1,4 @@
 
----
-
 ### Hi there 👋 I'm Lucas
 
 I'm a Front-End Developer and CS student from Paraguay passionate about making the web world aesthetic and accesible.
