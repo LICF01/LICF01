@@ -3,7 +3,7 @@
 
 ### Hi there 👋 I'm Lucas
 
-I'm a Front-End Developer from Paraguay passionate about making the web world aesthetic and accesible.
+I'm a Front-End Developer and CS student from Paraguay passionate about making the web world aesthetic and accesible.
 
 I love sharing my knowledge with others, especially people around me, I'll be glad to help if you need me.
 
