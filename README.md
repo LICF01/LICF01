@@ -9,7 +9,7 @@ When I'm not coding, I like to share time with my family.
 
 - 🌱 I’m currently learning ReactJS
 - 🔭 I'm interested on learning NextJS, NodeJS, ThreeJS, React Native, VueJS, Blender
-- ⚡ Fun fact: I like Linux, Keyboards and Sci-fi
+- ⚡ Fun fact: I like Linux, Keyboards, OneDark colorscheme and Sci-fi
 
 ## 🔧 Technologies & tools
 
