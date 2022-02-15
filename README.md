@@ -1,4 +1,7 @@
 
+
+# 👦🏻 About Me :
+
 ### Hi there 👋 I'm Lucas
 
 I'm a Front-End Developer and CS student from Paraguay passionate about making the web world aesthetic and accesible.
@@ -11,7 +14,10 @@ When I'm not coding, I like to share time with my family.
 - 🔭 I'm interested on learning NextJS, NodeJS, ThreeJS, React Native, VueJS, Blender
 - ⚡ Fun fact: I like Linux, Keyboards, OneDark colorscheme and Sci-fi
 
-## 🔧 Technologies and tools I use/used
+## 🌐 Socials
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/lucas.cubilla) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lucas-cubilla-923506182) 
+
+# 🔧 Technologies and tools I use/used
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -47,24 +53,13 @@ When I'm not coding, I like to share time with my family.
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Lineageos](https://img.shields.io/badge/lineageos-167C80?style=for-the-badge&logo=lineageos&logoColor=white)
 
+# 📊 GitHub Stats :
+![](https://github-readme-stats.vercel.app/api?username=licf01&theme=onedark&hide_border=true&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=licf01&theme=onedark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=licf01&theme=onedark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=licf01&theme=onedark&no-frame=true&no-bg=false&margin-w=4)
+
 ---
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LICF01&layout=compact&theme=onedark&hide_border=true)
-
-![Lucas's github stats](https://github-readme-stats.vercel.app/api?username=LICF01&show_icons=true&hide_border=true&theme=onedark)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LICF01&theme=onedark&hide_border=true)](https://git.io/streak-stats)
-
-<!--
-**LICF01/LICF01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![](https://visitcount.itsvg.in/api?id=licf01&icon=0&color=4)](https://visitcount.itsvg.in)
