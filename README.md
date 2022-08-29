@@ -10,7 +10,7 @@ I love sharing my knowledge with others, especially people around me, I'll be gl
 
 When I'm not coding, I like to share time with my family.
 
-- 😎 Using ReactJS and TypeScript daily
+- 💻 Using ReactJS and TypeScript daily
 - 🌱 I’m currently learning NextJs and NodeJS
 - 🔭 I'm interested on learning ThreeJS, React Native, VueJS, Blender
 - ⚡ Fun fact: I like Linux, Keyboards, OneDark colorscheme and Sci-fi
