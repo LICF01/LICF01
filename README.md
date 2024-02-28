@@ -53,6 +53,6 @@ When I'm not coding, I like to share time with my family.
 ![Lineageos](https://img.shields.io/badge/lineageos-167C80?style=for-the-badge&logo=lineageos&logoColor=white)
 
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=licf01&theme=onedark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=licf01&theme=onedark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 
